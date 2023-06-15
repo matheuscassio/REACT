@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "dindaa",
+    "slug": "dindaa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
